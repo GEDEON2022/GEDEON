@@ -35,9 +35,9 @@ div {
 }
 
 #logo {
-    background: url('img/logo4.jpg');
+    background: url('img/logo5.png');
     background-repeat: no-repeat;
-    width: 225px;
+    width: 325px;
     height: 225px;
     
     position: relative;
@@ -47,7 +47,7 @@ div {
     animation-duration: 2s;
     /* background-position: right; */
     animation-delay: 0s;
-    border-radius: 50%;
+    border-radius: ;
     padding: 50;
 
 }
